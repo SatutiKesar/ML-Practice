@@ -1,4 +1,4 @@
-# 🤖 My Daily Machine Learning Journey
+# My Daily Machine Learning Journey
 
 This repository is where I show up every day to **learn, build, and improve in Machine Learning**.
 
@@ -6,7 +6,7 @@ No shortcuts—just consistent effort.
 
 ---
 
-## 🚀 Why I Started This
+##  Why I Started This
 
 I didn’t want to just *learn ML passively* from videos or courses.
 I wanted to actually **apply concepts daily**, make mistakes, and improve through practice.
@@ -25,7 +25,7 @@ So I started this repo to:
 Each day, I upload something I worked on. It could be:
 
 * A new ML algorithm implementation
-* Practice on a dataset
+* Practice on a dataset(You can take similar datasets from Kaggle)
 * A notebook with experiments
 * Notes + code combined
 
@@ -33,7 +33,7 @@ There’s no “perfect structure”—this repo grows as I learn.
 
 ---
 
-## 📚 What I’m Learning
+##  What I’m Learning
 
 Right now, I’m focusing on:
 
@@ -42,11 +42,6 @@ Right now, I’m focusing on:
 * Core ML algorithms (Regression, Classification)
 * Model evaluation
 
-Soon, I’ll move into:
-
-* Feature engineering
-* Advanced models
-* Deep Learning basics
 
 ---
 
@@ -60,7 +55,7 @@ Soon, I’ll move into:
 
 ---
 
-## 📅 My Rule
+##  The idea is to...
 
 At least **one meaningful contribution every day**.
 
@@ -102,11 +97,6 @@ If you're also learning ML, feel free to:
 * Suggest improvements
 * Or just start your own journey today
 
----
-
-## ⭐ Support
-
-If this inspires you or helps you, consider giving it a ⭐
 
 ---
 
